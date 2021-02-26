@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "preread",
+      "type": "com.yiguan.novel.config.PreReadUploadConfig",
+      "sourceType": "com.yiguan.novel.config.PreReadUploadConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "preread.upload-path",
+      "type": "java.lang.String",
+      "sourceType": "com.yiguan.novel.config.PreReadUploadConfig"
+    }
+  ],
+  "hints": []
+}
